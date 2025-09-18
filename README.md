@@ -71,8 +71,8 @@ recentCounter.ping(3002); // 3
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/<your-username>/typescript-algorithms.git
-   cd typescript-algorithms
+   git clone https://github.com/IPeaceDeathI/TS-ez-algorithms.git
+   cd TS-ez-algorithms
    ```
 
 2. Установить зависимости:
